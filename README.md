@@ -51,6 +51,6 @@ The dataset was used from Kaggle.
 
 
 OUTPUT:-
-<img width="1280" height="833" alt="image" src="https://github.com/user-attachments/assets/b5f1fc52-927c-4f23-9745-87af2cf480de" />
+![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20225946.png)
 
 CREATED BY HARSHAL J. JAGDALE
