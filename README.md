@@ -4,11 +4,11 @@ This web application was developed using the **Flask** web framework. The predic
 
 **Chronic-Kidney-Disease-Prediction**
 
-![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20225715.png)
+![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20235415.png)
 
-![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20225841.png)
+![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20235456.png)
 
-![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20225946.png)
+![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20235436.png)
 ```
 ![image](https://github.com/user-attachments/assets/093fafc0-7ee7-4f66-862e-ce519da1fcaa)
 
@@ -51,6 +51,5 @@ The dataset was used from Kaggle.
 
 
 OUTPUT:-
-![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20225946.png)
-
+![image]([https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20225946.png](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20235436.png)
 CREATED BY HARSHAL J. JAGDALE
