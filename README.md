@@ -51,5 +51,5 @@ The dataset was used from Kaggle.
 
 
 OUTPUT:-
-![image]([https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20225946.png](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20235436.png)
+![image](https://github.com/HarshalJagdale1747/CKD_detection_using_ML_SW/blob/main/images/Screenshot%202025-11-27%20235436.png)
 CREATED BY HARSHAL J. JAGDALE
